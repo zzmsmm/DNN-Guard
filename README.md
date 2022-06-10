@@ -13,7 +13,7 @@
 5. 网站将具备公信力的裁决结果提供给用户下载，该结果并不具备法律效力。
 
 白盒水印算法的原理图如下：
-![mtl](https://user-images.githubusercontent.com/72694643/168418071-8bcdb94e-1170-40a7-a321-eb43fd0daf8c.png)
+![mtl](https://user-images.githubusercontent.com/72694643/173067110-9b645e77-4160-41cb-8e79-cfa39af9015d.png)
 
 ### 文件提交规范与版权认证程序
 #### 图像分类模型
