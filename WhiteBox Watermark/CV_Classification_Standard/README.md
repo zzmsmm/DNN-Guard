@@ -7,3 +7,5 @@
 2. model 目录中有三个模型，验证时先将二维码输入到 Extract 模型中得到中间值，再将中间值输入到 Verify 模型中得到验证结果
 
 3. 其余文件及其作用请见 WhiteBox Watermark 目录下的 README.md 文件
+
+这里的代码文件都是我自己写的
